@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "72275d8f079acba82ec9e66d1eb7ab9d",
+    "hash": "95451520eecf5c9070b201ae8de5d55b",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -571,16 +571,16 @@
         },
         {
             "name": "pda/pheanstalk",
-            "version": "v2.1.1",
+            "version": "v2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pda/pheanstalk.git",
-                "reference": "672eb5cc9049d61e4eb68d30f0f33de65a947e6b"
+                "reference": "e920e179cc4061defdab397f9dc59580f214a600"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pda/pheanstalk/zipball/672eb5cc9049d61e4eb68d30f0f33de65a947e6b",
-                "reference": "672eb5cc9049d61e4eb68d30f0f33de65a947e6b",
+                "url": "https://api.github.com/repos/pda/pheanstalk/zipball/e920e179cc4061defdab397f9dc59580f214a600",
+                "reference": "e920e179cc4061defdab397f9dc59580f214a600",
                 "shasum": ""
             },
             "require": {
@@ -609,7 +609,7 @@
             "keywords": [
                 "beanstalkd"
             ],
-            "time": "2014-12-02 22:44:56"
+            "time": "2013-03-25 20:50:19"
         },
         {
             "name": "phpseclib/phpseclib",

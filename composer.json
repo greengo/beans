@@ -7,7 +7,7 @@
 	"require": {
 		"laravel/framework": "4.2.*",
 		"way/generators": "~2.6",
-		"pda/pheanstalk": "~2.0"
+		"pda/pheanstalk": "2.0.*"
 	},
 	"autoload": {
 		"classmap": [
