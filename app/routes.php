@@ -18,3 +18,5 @@ Route::get('/', function()
 
 
 Route::get('queue/add', 'QueueController@add');
+
+Route::get('queue/log', 'QueueController@log');
